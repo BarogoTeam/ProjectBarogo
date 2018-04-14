@@ -1,9 +1,14 @@
 import React, {Component} from "react";
+import ResultView from "../ResultView/ResultView";
 
 class MainView extends Component {
     render() {
+
         return (
-            <div>hello world</div>
+            <div>
+                <div>hello world</div>
+                <ResultView menuName="떡볶이"/>
+            </div>
         )
     }
 }
