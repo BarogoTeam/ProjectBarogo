@@ -1,9 +1,12 @@
 # .pairs - configuration for 'git pair'
 pairs:
   # <initials>: <Firstname> <Lastname>[; <email-id>]
-  ck: Conan Kim
-  tk: Thesun Kim
-  ll: Leo Lee
+  ck: Conan Kim; crian0121
+  tk: Thesun Kim; thesun4sky
+  ll: Leo Lee; cylee0330
+
+email:
+  domain: gmail.com
 
 email_addresses:
   ck: crian0121@gmail.com
